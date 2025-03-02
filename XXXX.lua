@@ -1126,7 +1126,7 @@ TargetImage.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 TargetImage.BorderColor3 = Color3.fromRGB(0, 255, 255)
 TargetImage.Position = UDim2.new(0, 25, 0, 25)
 TargetImage.Size = UDim2.new(0, 100, 0, 100)
-TargetImage.Image = "rbxassetid://18393252027"
+TargetImage.Image = "rbxassetid://140119830375893"
 
 TargetName_Input.Name = "TargetName_Input"
 TargetName_Input.Parent = Target_Section
@@ -1151,7 +1151,7 @@ ClickTargetTool_Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ClickTargetTool_Button.BorderSizePixel = 0
 ClickTargetTool_Button.Position = UDim2.new(0, 180, 0, 0)
 ClickTargetTool_Button.Size = UDim2.new(0, 30, 0, 30)
-ClickTargetTool_Button.Image = "rbxassetid://18393252027"
+ClickTargetTool_Button.Image = "rbxassetid://140119830375893"
 
 UserIDTargetLabel.Name = "UserIDTargetLabel"
 UserIDTargetLabel.Parent = Target_Section
